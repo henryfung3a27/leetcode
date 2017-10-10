@@ -1,4 +1,4 @@
-/* 17. Letter Combinations of a Phone Number */
+/* 17. Letter Combinations of a Phone Number */ 
 
 /* The fun() is to merge the array of strings (a) and the char array (b).
  * Then it returns the pointer to pointer to the array of new strings.
